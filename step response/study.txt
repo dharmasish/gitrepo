@@ -1,0 +1,15 @@
+1 clk 15s
+
+2-anticlk-anticlk	15s
+
+3-clk-clk    15s
+
+4-clk-anticlk	15s
+
+5- clock-anticlk-clk-anticlk	30s
+
+1-5 11.75 volt step voltage
+
+
+6 -anticlk 15s  6.7V
+7-clk	   15s	6.7v
